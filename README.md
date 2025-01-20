@@ -11,7 +11,7 @@ Create a bubble chart that displays each sample\
 Display the sample's metadata\
 Update all the plots when a new sample is selected
 
-### Tech. utilization
+### Tech. utilized
 CSS/Bootstrap\
 HTMl\
 JavaScript\
