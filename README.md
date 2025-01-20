@@ -9,13 +9,13 @@ Use the D3 library\
 Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in selected individual\
 Create a bubble chart that displays each sample\
 Display the sample's metadata\
-Update all the plots when a new sample is selected\
+Update all the plots when a new sample is selected
 
 ### Tech. utilization
 CSS/Bootstrap\
 HTMl\
 JavaScript\
-Plotly\
+Plotly
 
 ### Resources
 Group work\
