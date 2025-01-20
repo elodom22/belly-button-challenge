@@ -10,7 +10,7 @@ Build an interactive dashboard to explore the Belly Button Biodiversity dataset,
 -Display the sample's metadata
 -Update all the plots when a new sample is selected.
 
-# Tech utilizaion
+# Tech. utilization
 -CSS/Bootstrap
 -HTMl
 -JavaScript
