@@ -21,4 +21,4 @@ Plotly\
 Group work\
 Google AI\
 Microsoft Co-pilot\
-Stackoverflow\
+Stackoverflow
