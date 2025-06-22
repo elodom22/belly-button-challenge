@@ -1,8 +1,5 @@
 # belly-button-challenge
-
-## Objective/Discovery
-Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.\
-The dataset reveals that a small handful of microbial species (aka operational taxonomic units - OTUs) were present in more than 70% of people.
+This challenge involves building an interactive dashboard to explore microbial biodiversity in human navels using the Belly Button Biodiversity dataset. Here we use D3.js to load data, create visualizations like bar and bubble charts, and display demographic metadata. The dashboard will allow users to select samples dynamically, updating the plots accordingly. Finally, you'll deploy the app to a static hosting service, ensuring proper documentation and version control. This project strengthens skills in data visualization, web development, and interactive design for scientific analysis.
 
 ### Workflow description:
 Use the D3 library\
@@ -17,8 +14,3 @@ HTMl\
 JavaScript\
 Plotly
 
-### Resources
-Group work\
-Google AI\
-Microsoft Co-pilot\
-Stackoverflow
