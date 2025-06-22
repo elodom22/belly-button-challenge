@@ -1,5 +1,5 @@
 # belly-button-challenge
-This challenge involves building an interactive dashboard to explore microbial biodiversity in human navels using the Belly Button Biodiversity dataset. Here we use D3.js to load data, create visualizations like bar and bubble charts, and display demographic metadata. The dashboard will allow users to select samples dynamically, updating the plots accordingly. Finally, you'll deploy the app to a static hosting service, ensuring proper documentation and version control. This project strengthens skills in data visualization, web development, and interactive design for scientific analysis.
+This challenge involves building an interactive dashboard to explore microbial biodiversity in human navels using the Belly Button Biodiversity dataset. Here we use D3.js to load data/create visualizations such as, bar and bubble charts, to display demographic metadata. The dashboard will allow users to select samples dynamically, updating the plots accordingly. Finally, we deploy the app to a static hosting service, ensuring proper documentation and version control. This project strengthens skills in data visualization, web development, and interactive design for scientific analysis.
 
 ### Workflow description:
 Use the D3 library\
